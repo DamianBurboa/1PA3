@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aloy - Horizon Zero Dawn</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f0f0f0; margin: 20px; line-height: 1.6;">
+
+    <div style="text-align: center; margin-bottom: 15px;">
+        <img src="perfil2.jpg" style="max-width: 300px; height: auto;">
+    </div>
+    
+    <h1 style="color: #2c3e50; text-align: center;">Aloy</h1>
+    <h2 style="color: #7f8c8d; text-align: center;">Protagonista de Horizon Zero Dawn</h2>
+
+    <section style="background-color: #ffffff; padding: 20px; border-radius: 10px; box-shadow: 10px rgba(0, 0, 0, 0.1); margin-bottom: 20px;">
+        <h3 style="color: #e74c3c;">Biografía</h3>
+        <p style="color: #34495e;">Aloy es una joven cazadora de la tribu Nora, una de las principales facciones del mundo post-apocalíptico de Horizon Zero Dawn. Desde su nacimiento, Aloy ha sido una marginada, pero su ingenio, valentía y deseo de descubrir los secretos de su mundo la llevaron a convertirse en una de las figuras más importantes de la historia.</p>
+
+        <div style="text-align: center; margin: 20px 0;">
+            <img src="Arc1.jpg" style="height: 400px; border-radius: 10px;">
+        </div>
+        
+        <p style="color: #34495e;">Criada por un marginado llamado Rost, Aloy siempre se ha cuestionado su origen, especialmente porque fue excluida de la tribu por razones desconocidas. Determinada a encontrar respuestas, se entrena intensamente para competir en "La Prueba", un rito de iniciación Nora, donde espera obtener la aceptación de la tribu y, con suerte, descubrir la verdad sobre su madre.</p>
+    </section>
+
+    <section style="background-color: #ffffff; padding: 20px; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);">
+        <h3 style="color: #e74c3c;">Historia en Horizon Zero Dawn</h3>
+        <p style="color: #34495e;">La historia de Aloy en Horizon Zero Dawn es un viaje épico de autodescubrimiento y lucha contra un oscuro poder que amenaza con destruir todo lo que conoce. A lo largo del juego, Aloy descubre tecnología avanzada del pasado, que la ayuda a enfrentar a las temibles máquinas que habitan el mundo. Su habilidad para comprender y utilizar esta tecnología la convierte en una de las cazadoras más formidables de su tiempo.</p>
+
+        <div style="text-align: center; margin: 20px 0;">
+            <img src="ft1.jpg" style="height: 400px; border-radius: 10px;">
+        </div>
+        
+        <p style="color: #34495e;">A medida que avanza en su viaje, Aloy descubre los secretos detrás de las máquinas y la verdad sobre el apocalipsis que devastó el mundo. También se enfrenta a desafíos tanto físicos como emocionales, forjando alianzas y enfrentando traiciones, mientras busca salvar a la humanidad de un destino incierto.</p>
+    </section>
+</html>
